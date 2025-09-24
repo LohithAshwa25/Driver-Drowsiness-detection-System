@@ -1,1 +1,2 @@
 # Driver-Drowsiness-detection-System
+We made a DL model with the help of OpenCV and MediaPipe which helps us to detetct whether the driver is sleeping or not by checking whether the eye is closed or not. If the eys are closed for a particular period of time, Then the vehicle will slows down automatically and the alarm will start and also all the lights of the vehicle will glow which helps the other drivers to confirm the driver is not conscious. 
